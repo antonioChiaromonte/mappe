@@ -1,4 +1,4 @@
-import{b as n,j as e}from"./index-GQqFdvX4.js";const v=`Prima di tutto chiama get_style_guide e seguila in tutto il lavoro.
+import{b as n,j as e}from"./index-CasOAoXD.js";const v=`Prima di tutto chiama get_style_guide e seguila in tutto il lavoro.
 Lavora per blocchi e salva spesso: l'utente vede la mappa crescere in tempo reale nell'app Mappe.
 Tieni l'utente aggiornato con messaggi brevi (una riga per fase), senza ripetere in chat il contenuto dei concetti.`,x=a=>a?.trim()?`Fonti prioritarie indicate dall'utente, in quest'ordine: ${a.trim()}. Registrale in prioritySources (nome + dominio).`:"L'utente non ha indicato fonti prioritarie: per ogni concetto scegli la fonte più autorevole disponibile (vedi la guida).";function f(a){const t=a.percorso_file.split(/[;\n]/).map(o=>o.trim().replace(/^"|"$/g,"")).filter(Boolean);return`Crea una mappa concettuale ipertestuale con lo strumento Mappe a partire da ${t.length>1?"questi documenti":"questo documento"}:
 ${t.map(o=>`- ${o}`).join(`
