@@ -1,5 +1,12 @@
 [
   {
+    "slug": "fisica-nucleare-semprini",
+    "title": "Fisica Nucleare",
+    "subtitle": "Prof. N. Semprini Cesari · Università di Bologna · A.A. 2024/2025",
+    "concepts": 76,
+    "publishedAt": "2026-11-07T08:58:32.979Z"
+  },
+  {
     "slug": "programmazione-fisica-cpp",
     "title": "Programmazione per la Fisica",
     "subtitle": "C++ · F. Giacomini · Università di Bologna · A.A. 2024/2025",
